@@ -264,3 +264,7 @@ swiper-slide img {
 .price{
   font-weight: bold;
 }
+.img{
+  width: 70px;
+  height: 70px;
+}
